@@ -130,6 +130,3 @@ dmypy.json
 
 # OSX DS
 .DS_Store
-
-#executables
-*.exe
