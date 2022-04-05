@@ -1,0 +1,47 @@
+Out Time,Out Airline,Out Cities,Out Duration,Out Stops,Out Stop Cities,Return Time,Return Airline,Return Cities,Return Duration,Return Stops,Return Stop Cities,Price,timestamp,sort
+7:46 am – 12:35 am +2,United Airlines,SAN‐SIN,25h49m,2,"SFO, NRT",6:10 am – 2:58 pm,"ANA, United Airlines",SIN‐SAN,23h48m,2,"NRT, SFO",1190,20220404-1355,cheap
+6:20 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h15m,2,"LAX, NRT",6:10 am – 2:58 pm,United Airlines,SIN‐SAN,23h48m,2,"NRT, SFO",1190,20220404-1355,cheap
+6:20 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h15m,2,"LAX, NRT",6:10 am – 2:58 pm,United Airlines,SIN‐SAN,23h48m,2,"NRT, SFO",1190,20220404-1355,cheap
+6:15 am – 12:35 am +2,United Airlines,SAN‐SIN,27h20m,2,"SFO, NRT",6:10 am – 2:58 pm,"ANA, United Airlines",SIN‐SAN,23h48m,2,"NRT, SFO",1190,20220404-1355,cheap
+7:46 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,25h49m,2,"SFO, NRT",6:10 am – 6:38 pm,United Airlines,SIN‐SAN,27h28m,2,"NRT, SFO",1190,20220404-1355,cheap
+7:46 am – 12:35 am +2,United Airlines,SAN‐SIN,25h49m,2,"SFO, NRT",6:10 am – 7:55 pm,"ANA, United Airlines",SIN‐SAN,28h45m,2,"NRT, LAX",1190,20220404-1355,cheap
+7:46 am – 12:35 am +2,United Airlines,SAN‐SIN,25h49m,2,"SFO, NRT",6:10 am – 7:55 pm,"ANA, United Airlines",SIN‐SAN,28h45m,2,"NRT, LAX",1190,20220404-1355,cheap
+6:20 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h15m,2,"LAX, NRT",6:10 am – 6:38 pm,United Airlines,SIN‐SAN,27h28m,2,"NRT, SFO",1190,20220404-1355,cheap
+6:20 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h15m,2,"LAX, NRT",6:10 am – 6:38 pm,United Airlines,SIN‐SAN,27h28m,2,"NRT, SFO",1190,20220404-1355,cheap
+6:15 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h20m,2,"SFO, NRT",6:10 am – 6:38 pm,United Airlines,SIN‐SAN,27h28m,2,"NRT, SFO",1190,20220404-1355,cheap
+7:46 am – 12:35 am +2,United Airlines,SAN‐SIN,25h49m,2,"SFO, NRT",6:10 am – 8:33 pm,"ANA, United Airlines",SIN‐SAN,29h23m,2,"NRT, SFO",1190,20220404-1355,cheap
+6:15 am – 12:35 am +2,United Airlines,SAN‐SIN,27h20m,2,"SFO, NRT",6:10 am – 7:55 pm,"ANA, United Airlines",SIN‐SAN,28h45m,2,"NRT, LAX",1190,20220404-1355,cheap
+6:15 am – 12:35 am +2,United Airlines,SAN‐SIN,27h20m,2,"SFO, NRT",6:10 am – 7:55 pm,"ANA, United Airlines",SIN‐SAN,28h45m,2,"NRT, LAX",1190,20220404-1355,cheap
+6:20 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h15m,2,"LAX, NRT",6:10 am – 8:33 pm,United Airlines,SIN‐SAN,29h23m,2,"NRT, SFO",1190,20220404-1355,cheap
+6:20 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h15m,2,"LAX, NRT",6:10 am – 8:33 pm,United Airlines,SIN‐SAN,29h23m,2,"NRT, SFO",1190,20220404-1355,cheap
+1:15 pm – 12:20 am +2,Japan Airlines,SAN‐SIN,20h05m,1,NRT,2:40 am – 10:38 am +1,JetBlue,SIN‐SAN,46h58m,2,"DOH, JFK",1307,20220404-1353,best
+7:46 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,25h49m,2,"SFO, NRT",6:10 am – 2:58 pm,United Airlines,SIN‐SAN,23h48m,2,"NRT, SFO",1190,20220404-1353,best
+7:46 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,25h49m,2,"SFO, NRT",9:00 am – 12:29 pm,United Airlines,SIN‐SAN,18h29m,1,SFO,1449,20220404-1353,best
+6:20 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h15m,2,"LAX, NRT",6:10 am – 2:58 pm,United Airlines,SIN‐SAN,23h48m,2,"NRT, SFO",1190,20220404-1353,best
+6:20 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h15m,2,"LAX, NRT",6:10 am – 2:58 pm,United Airlines,SIN‐SAN,23h48m,2,"NRT, SFO",1190,20220404-1353,best
+6:15 am – 12:35 am +2,United Airlines,SAN‐SIN,27h20m,2,"SFO, NRT",6:10 am – 2:58 pm,"ANA, United Airlines",SIN‐SAN,23h48m,2,"NRT, SFO",1190,20220404-1353,best
+6:20 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h15m,2,"LAX, NRT",9:00 am – 12:29 pm,United Airlines,SIN‐SAN,18h29m,1,SFO,1449,20220404-1353,best
+6:15 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h20m,2,"SFO, NRT",9:00 am – 12:29 pm,United Airlines,SIN‐SAN,18h29m,1,SFO,1449,20220404-1353,best
+7:46 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,25h49m,2,"SFO, NRT",9:00 am – 2:58 pm,United Airlines,SIN‐SAN,20h58m,1,SFO,1449,20220404-1353,best
+7:46 am – 12:35 am +2,United Airlines,SAN‐SIN,25h49m,2,"SFO, NRT",6:10 am – 6:38 pm,"ANA, United Airlines",SIN‐SAN,27h28m,2,"NRT, SFO",1190,20220404-1353,best
+6:20 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h15m,2,"LAX, NRT",6:10 am – 6:38 pm,United Airlines,SIN‐SAN,27h28m,2,"NRT, SFO",1190,20220404-1353,best
+6:15 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h20m,2,"SFO, NRT",6:10 am – 6:38 pm,United Airlines,SIN‐SAN,27h28m,2,"NRT, SFO",1190,20220404-1353,best
+6:20 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h15m,2,"LAX, NRT",9:00 am – 2:58 pm,United Airlines,SIN‐SAN,20h58m,1,SFO,1449,20220404-1353,best
+7:46 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,25h49m,2,"SFO, NRT",6:10 am – 8:33 pm,United Airlines,SIN‐SAN,29h23m,2,"NRT, SFO",1190,20220404-1353,best
+6:15 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h20m,2,"SFO, NRT",9:00 am – 2:58 pm,United Airlines,SIN‐SAN,20h58m,1,SFO,1449,20220404-1353,best
+7:46 am – 12:35 am +2,United Airlines,SAN‐SIN,25h49m,2,"SFO, NRT",6:10 am – 7:55 pm,"ANA, United Airlines",SIN‐SAN,28h45m,2,"NRT, LAX",1190,20220404-1353,best
+1:15 pm – 12:20 am +2,Japan Airlines,SAN‐SIN,20h05m,1,NRT,6:40 pm – 11:05 pm,Singapore Airlines,SIN‐SAN,19h25m,1,SFO,3475,20220404-1358,fast
+7:46 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,25h49m,2,"SFO, NRT",9:00 am – 12:29 pm,United Airlines,SIN‐SAN,18h29m,1,SFO,1449,20220404-1358,fast
+8:10 am – 12:20 am +2,Japan Airlines,SAN‐SIN,25h10m,2,"SFO, NRT",6:40 pm – 11:05 pm,"Singapore Airlines, Alaska Airlines",SIN‐SAN,19h25m,1,SFO,3618,20220404-1358,fast
+6:20 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h15m,2,"LAX, NRT",9:00 am – 12:29 pm,United Airlines,SIN‐SAN,18h29m,1,SFO,1449,20220404-1358,fast
+6:20 am – 12:35 am +2,United Airlines,SAN‐SIN,27h15m,2,"LAX, NRT",9:00 am – 12:29 pm,United Airlines,SIN‐SAN,18h29m,1,SFO,1934,20220404-1358,fast
+6:17 am – 11:40 pm +1,Korean Air,SAN‐SIN,26h23m,2,"LAX, ICN",6:40 pm – 11:05 pm,"Singapore Airlines, Alaska Airlines",SIN‐SAN,19h25m,1,SFO,3522,20220404-1358,fast
+6:15 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h20m,2,"SFO, NRT",9:00 am – 12:29 pm,United Airlines,SIN‐SAN,18h29m,1,SFO,1449,20220404-1358,fast
+1:15 pm – 12:20 am +2,Japan Airlines,SAN‐SIN,20h05m,1,NRT,9:00 am – 8:33 pm,United Airlines,SIN‐SAN,26h33m,1,SFO,1624,20220404-1358,fast
+6:15 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h20m,2,"SFO, NRT",6:40 pm – 11:05 pm,"Singapore Airlines, Alaska Airlines",SIN‐SAN,19h25m,1,SFO,3588,20220404-1358,fast
+7:46 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,25h49m,2,"SFO, NRT",9:00 am – 2:58 pm,United Airlines,SIN‐SAN,20h58m,1,SFO,1449,20220404-1358,fast
+5:40 pm – 5:45 am +2,"Alaska Airlines, Singapore Airlines",SAN‐SIN,21h05m,1,SFO,9:00 am – 8:33 pm,United Airlines,SIN‐SAN,26h33m,1,SFO,2641,20220404-1358,fast
+1:15 pm – 12:20 am +2,Japan Airlines,SAN‐SIN,20h05m,1,NRT,9:25 am – 10:11 pm,"Singapore Airlines, Delta",SIN‐SAN,27h46m,2,"NRT, LAX",2050,20220404-1358,fast
+6:20 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h15m,2,"LAX, NRT",9:00 am – 2:58 pm,United Airlines,SIN‐SAN,20h58m,1,SFO,1449,20220404-1358,fast
+6:20 am – 12:35 am +2,United Airlines,SAN‐SIN,27h15m,2,"LAX, NRT",9:00 am – 2:58 pm,United Airlines,SIN‐SAN,20h58m,1,SFO,1934,20220404-1358,fast
+6:15 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h20m,2,"SFO, NRT",9:00 am – 2:58 pm,United Airlines,SIN‐SAN,20h58m,1,SFO,1449,20220404-1358,fast

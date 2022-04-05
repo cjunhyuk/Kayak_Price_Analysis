@@ -1,0 +1,47 @@
+Out Time,Out Airline,Out Cities,Out Duration,Out Stops,Out Stop Cities,Return Time,Return Airline,Return Cities,Return Duration,Return Stops,Return Stop Cities,Price,timestamp,sort
+8:00 am – 12:35 am +2,Air Canada,SAN‐SIN,25h35m,2,"YVR, NRT",6:10 am – 6:33 pm,Air Canada,SIN‐SAN,27h23m,2,"NRT, YVR",1035,20220404-1855,cheap
+8:00 am – 1:15 am +2,"Air Canada, Singapore Airlines",SAN‐SIN,26h15m,2,"YVR, NRT",6:10 am – 6:33 pm,Air Canada,SIN‐SAN,27h23m,2,"NRT, YVR",1071,20220404-1855,cheap
+8:00 am – 12:35 am +2,Air Canada,SAN‐SIN,25h35m,2,"YVR, NRT",10:10 pm – 6:33 pm +1,Air Canada,SIN‐SAN,35h23m,2,"HND-NRT, YVR",1091,20220404-1855,cheap
+8:00 am – 12:20 am +2,"Air Canada, Japan Airlines",SAN‐SIN,25h20m,2,"YVR, NRT",6:10 am – 6:33 pm,Air Canada,SIN‐SAN,27h23m,2,"NRT, YVR",1136,20220404-1855,cheap
+8:00 am – 1:15 am +2,"Air Canada, Singapore Airlines",SAN‐SIN,26h15m,2,"YVR, NRT",10:10 pm – 6:33 pm +1,Air Canada,SIN‐SAN,35h23m,2,"HND-NRT, YVR",1169,20220404-1855,cheap
+8:45 pm – 12:20 am +3,"Alaska Airlines, Japan Airlines",SAN‐SIN,36h35m,2,"SEA, NRT",6:10 am – 6:33 pm,Air Canada,SIN‐SAN,27h23m,2,"NRT, YVR",1262,20220404-1855,cheap
+1:27 pm – 12:20 am +3,Japan Airlines,SAN‐SIN,43h53m,2,"ORD, NRT",8:10 am – 11:15 am,Japan Airlines,SIN‐SAN,18h05m,1,NRT,1297,20220404-1855,cheap
+1:00 pm – 12:20 am +3,Japan Airlines,SAN‐SIN,44h20m,2,"SEA, NRT",8:10 am – 11:15 am,Japan Airlines,SIN‐SAN,18h05m,1,NRT,1302,20220404-1855,cheap
+7:47 am – 12:35 am +2,ANA,SAN‐SIN,25h48m,2,"SFO, NRT",6:10 am – 2:35 pm,ANA,SIN‐SAN,23h25m,2,"NRT, SFO",1320,20220404-1855,cheap
+7:47 am – 12:35 am +2,ANA,SAN‐SIN,25h48m,2,"SFO, NRT",6:10 am – 2:35 pm,ANA,SIN‐SAN,23h25m,2,"NRT, SFO",1320,20220404-1855,cheap
+6:15 am – 12:35 am +2,ANA,SAN‐SIN,27h20m,2,"SFO, NRT",6:10 am – 2:35 pm,ANA,SIN‐SAN,23h25m,2,"NRT, SFO",1320,20220404-1855,cheap
+6:15 am – 12:35 am +2,ANA,SAN‐SIN,27h20m,2,"SFO, NRT",6:10 am – 2:35 pm,ANA,SIN‐SAN,23h25m,2,"NRT, SFO",1320,20220404-1855,cheap
+7:47 am – 12:35 am +2,ANA,SAN‐SIN,25h48m,2,"SFO, NRT",6:10 am – 6:09 pm,ANA,SIN‐SAN,26h59m,2,"NRT, SFO",1320,20220404-1855,cheap
+7:47 am – 12:35 am +2,ANA,SAN‐SIN,25h48m,2,"SFO, NRT",6:10 am – 6:09 pm,ANA,SIN‐SAN,26h59m,2,"NRT, SFO",1320,20220404-1855,cheap
+6:15 am – 12:35 am +2,ANA,SAN‐SIN,27h20m,2,"SFO, NRT",6:10 am – 6:09 pm,ANA,SIN‐SAN,26h59m,2,"NRT, SFO",1320,20220404-1855,cheap
+7:47 am – 12:35 am +2,ANA,SAN‐SIN,25h48m,2,"SFO, NRT",6:10 am – 2:35 pm,ANA,SIN‐SAN,23h25m,2,"NRT, SFO",1375,20220404-1853,best
+7:47 am – 12:35 am +2,United Airlines,SAN‐SIN,25h48m,2,"SFO, NRT",8:45 am – 12:23 pm,United Airlines,SIN‐SAN,18h38m,1,SFO,1355,20220404-1853,best
+8:00 am – 12:35 am +2,Air Canada,SAN‐SIN,25h35m,2,"YVR, NRT",6:10 am – 6:33 pm,Air Canada,SIN‐SAN,27h23m,2,"NRT, YVR",1035,20220404-1853,best
+6:30 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h05m,2,"LAX, NRT",8:45 am – 12:23 pm,United Airlines,SIN‐SAN,18h38m,1,SFO,1360,20220404-1853,best
+6:15 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h20m,2,"SFO, NRT",8:45 am – 12:23 pm,United Airlines,SIN‐SAN,18h38m,1,SFO,1360,20220404-1853,best
+7:47 am – 12:35 am +2,United Airlines,SAN‐SIN,25h48m,2,"SFO, NRT",8:45 am – 2:35 pm,United Airlines,SIN‐SAN,20h50m,1,SFO,1355,20220404-1853,best
+6:05 pm – 5:45 am +2,Singapore Airlines,SAN‐SIN,20h40m,1,SFO,9:25 am – 1:23 pm,Singapore Airlines,SIN‐SAN,18h58m,1,SFO,1788,20220404-1853,best
+6:30 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h05m,2,"LAX, NRT",8:45 am – 2:35 pm,United Airlines,SIN‐SAN,20h50m,1,SFO,1360,20220404-1853,best
+6:15 am – 12:35 am +2,"United Airlines, ANA",SAN‐SIN,27h20m,2,"SFO, NRT",8:45 am – 2:35 pm,United Airlines,SIN‐SAN,20h50m,1,SFO,1360,20220404-1853,best
+8:00 am – 1:15 am +2,"Air Canada, Singapore Airlines",SAN‐SIN,26h15m,2,"YVR, NRT",6:10 am – 6:33 pm,Air Canada,SIN‐SAN,27h23m,2,"NRT, YVR",1071,20220404-1853,best
+4:15 pm – 5:45 am +2,Singapore Airlines,SAN‐SIN,22h30m,1,SFO,9:25 am – 1:23 pm,Singapore Airlines,SIN‐SAN,18h58m,1,SFO,1788,20220404-1853,best
+8:00 am – 12:20 am +2,"Air Canada, Japan Airlines",SAN‐SIN,25h20m,2,"YVR, NRT",6:10 am – 6:33 pm,Air Canada,SIN‐SAN,27h23m,2,"NRT, YVR",1136,20220404-1853,best
+7:47 am – 12:35 am +2,ANA,SAN‐SIN,25h48m,2,"SFO, NRT",6:10 am – 2:35 pm,ANA,SIN‐SAN,23h25m,2,"NRT, SFO",1320,20220404-1853,best
+7:47 am – 12:35 am +2,ANA,SAN‐SIN,25h48m,2,"SFO, NRT",6:10 am – 2:35 pm,ANA,SIN‐SAN,23h25m,2,"NRT, SFO",1320,20220404-1853,best
+6:05 pm – 5:45 am +2,Singapore Airlines,SAN‐SIN,20h40m,1,SFO,9:25 am – 4:02 pm,Singapore Airlines,SIN‐SAN,21h37m,1,SFO,1788,20220404-1853,best
+7:47 am – 12:35 am +2,United Airlines,SAN‐SIN,25h48m,2,"SFO, NRT",8:45 am – 12:23 pm,United Airlines,SIN‐SAN,18h38m,1,SFO,1605,20220404-1853,best
+6:05 pm – 5:45 am +2,Singapore Airlines,SAN‐SIN,20h40m,1,SFO,9:25 am – 1:23 pm,Singapore Airlines,SIN‐SAN,18h58m,1,SFO,1788,20220404-1858,fast
+6:20 am – 7:10 pm +1,"Alaska Airlines, Singapore Airlines",SAN‐SIN,21h50m,1,SFO,9:25 am – 1:23 pm,"Singapore Airlines, Alaska Airlines",SIN‐SAN,18h58m,1,SFO,2553,20220404-1858,fast
+6:05 pm – 5:45 am +2,Singapore Airlines,SAN‐SIN,20h40m,1,SFO,6:40 pm – 11:58 pm,Singapore Airlines,SIN‐SAN,20h18m,1,SFO,2158,20220404-1858,fast
+4:15 pm – 5:45 am +2,Singapore Airlines,SAN‐SIN,22h30m,1,SFO,9:25 am – 1:23 pm,Singapore Airlines,SIN‐SAN,18h58m,1,SFO,1788,20220404-1858,fast
+6:20 am – 7:10 pm +1,Singapore Airlines,SAN‐SIN,21h50m,1,SFO,6:40 pm – 11:58 pm,Singapore Airlines,SIN‐SAN,20h18m,1,SFO,2420,20220404-1858,fast
+6:05 pm – 5:45 am +2,Singapore Airlines,SAN‐SIN,20h40m,1,SFO,9:25 am – 4:02 pm,Singapore Airlines,SIN‐SAN,21h37m,1,SFO,1788,20220404-1858,fast
+4:15 pm – 7:50 am +2,"Alaska Airlines, Singapore Airlines",SAN‐SIN,24h35m,2,"SFO, LAX",8:10 am – 11:15 am,Japan Airlines,SIN‐SAN,18h05m,1,NRT,3379,20220404-1858,fast
+4:15 pm – 5:45 am +2,Singapore Airlines,SAN‐SIN,22h30m,1,SFO,6:40 pm – 11:58 pm,Singapore Airlines,SIN‐SAN,20h18m,1,SFO,2158,20220404-1858,fast
+2:35 pm – 5:45 am +2,"Alaska Airlines, Singapore Airlines",SAN‐SIN,24h10m,1,SFO,9:25 am – 1:23 pm,"Singapore Airlines, Alaska Airlines",SIN‐SAN,18h58m,1,SFO,1788,20220404-1858,fast
+8:15 am – 12:20 am +2,"Alaska Airlines, Japan Airlines",SAN‐SIN,25h05m,2,"SFO, NRT",8:10 am – 11:15 am,"Qantas Airways, Japan Airlines",SIN‐SAN,18h05m,1,NRT,3459,20220404-1858,fast
+8:15 am – 12:20 am +2,Japan Airlines,SAN‐SIN,25h05m,2,"SFO, NRT",8:10 am – 11:15 am,Japan Airlines,SIN‐SAN,18h05m,1,NRT,3502,20220404-1858,fast
+8:00 am – 12:20 am +2,Japan Airlines,SAN‐SIN,25h20m,2,"SEA, NRT",8:10 am – 11:15 am,Japan Airlines,SIN‐SAN,18h05m,1,NRT,3035,20220404-1858,fast
+8:00 am – 12:35 am +2,Air Canada,SAN‐SIN,25h35m,2,"YVR, NRT",8:10 am – 11:15 am,Japan Airlines,SIN‐SAN,18h05m,1,NRT,1712,20220404-1858,fast
+6:05 pm – 5:45 am +2,"Alaska Airlines, Singapore Airlines",SAN‐SIN,20h40m,1,SFO,9:25 am – 5:42 pm,"Singapore Airlines, Alaska Airlines",SIN‐SAN,23h17m,1,SFO,1788,20220404-1858,fast
+4:15 pm – 5:45 am +2,Singapore Airlines,SAN‐SIN,22h30m,1,SFO,9:25 am – 4:02 pm,Singapore Airlines,SIN‐SAN,21h37m,1,SFO,1788,20220404-1858,fast
