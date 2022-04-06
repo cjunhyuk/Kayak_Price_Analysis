@@ -1,0 +1,48 @@
+Out Time,Out Airline,Out Cities,Out Duration,Out Stops,Out Stop Cities,Return Time,Return Airline,Return Cities,Return Duration,Return Stops,Return Stop Cities,Price,timestamp,sort
+12:55 pm – 4:00 pm +2,Air Canada,SAN‐ICN,35h05m,1,YVR,5:45 pm – 6:33 pm,Air Canada,ICN‐SAN,16h48m,1,YVR,1196,20220405-1703,cheap
+7:45 pm – 11:10 am +2,"Alaska Airlines, China Airlines",SAN‐ICN,23h25m,2,"SFO, TPE",8:45 pm – 11:58 pm,"China Airlines, Alaska Airlines",ICN‐SAN,19h13m,2,"TPE, SFO",1474,20220405-1703,cheap
+6:05 pm – 11:10 am +2,"Alaska Airlines, China Airlines",SAN‐ICN,25h05m,2,"SFO, TPE",8:45 pm – 11:58 pm,"China Airlines, Alaska Airlines",ICN‐SAN,19h13m,2,"TPE, SFO",1474,20220405-1703,cheap
+4:15 pm – 11:10 am +2,"Alaska Airlines, China Airlines",SAN‐ICN,26h55m,2,"SFO, TPE",8:45 pm – 11:58 pm,"China Airlines, Alaska Airlines",ICN‐SAN,19h13m,2,"TPE, SFO",1479,20220405-1703,cheap
+2:35 pm – 11:10 am +2,"Alaska Airlines, China Airlines",SAN‐ICN,28h35m,2,"SFO, TPE",8:45 pm – 11:58 pm,"China Airlines, Alaska Airlines",ICN‐SAN,19h13m,2,"TPE, SFO",1479,20220405-1703,cheap
+8:00 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,17h45m,1,SEA,8:40 pm – 6:57 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,14h17m,1,SFO,1491,20220405-1703,cheap
+6:15 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,19h30m,1,SEA,8:40 pm – 6:57 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,14h17m,1,SFO,1491,20220405-1703,cheap
+8:00 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,17h45m,1,SEA,8:40 pm – 9:45 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,17h05m,1,SFO,1491,20220405-1703,cheap
+6:15 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,19h30m,1,SEA,8:40 pm – 9:45 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,17h05m,1,SFO,1491,20220405-1703,cheap
+8:00 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,17h45m,1,SEA,8:40 pm – 11:58 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,19h18m,1,SFO,1491,20220405-1703,cheap
+8:00 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,17h45m,1,SEA,6:20 pm – 10:18 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,19h58m,1,SEA,1491,20220405-1703,cheap
+6:15 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,19h30m,1,SEA,8:40 pm – 11:58 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,19h18m,1,SFO,1491,20220405-1703,cheap
+8:00 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,17h45m,1,SEA,6:20 pm – 11:38 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,21h18m,1,SEA,1491,20220405-1703,cheap
+6:15 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,19h30m,1,SEA,6:20 pm – 10:18 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,19h58m,1,SEA,1491,20220405-1703,cheap
+6:15 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,19h30m,1,SEA,6:20 pm – 11:38 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,21h18m,1,SEA,1491,20220405-1703,cheap
+12:55 pm – 4:00 pm +2,Air Canada,SAN‐ICN,35h05m,1,YVR,5:45 pm – 6:33 pm,Air Canada,ICN‐SAN,16h48m,1,YVR,1340,20220405-1701,best
+8:00 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,17h45m,1,SEA,8:40 pm – 6:57 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,14h17m,1,SFO,1491,20220405-1701,best
+12:55 pm – 4:00 pm +2,Air Canada,SAN‐ICN,35h05m,1,YVR,5:45 pm – 6:33 pm,Air Canada,ICN‐SAN,16h48m,1,YVR,1196,20220405-1701,best
+7:05 am – 3:15 pm +1,Korean Air,SAN‐ICN,16h10m,1,SEA,4:00 pm – 4:02 pm,"Korean Air, Alaska Airlines",ICN‐SAN,16h02m,1,SFO,1547,20220405-1701,best
+6:15 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,19h30m,1,SEA,8:40 pm – 6:57 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,14h17m,1,SFO,1491,20220405-1701,best
+6:15 am – 3:15 pm +1,Korean Air,SAN‐ICN,17h00m,1,SEA,4:00 pm – 4:02 pm,"Korean Air, Alaska Airlines",ICN‐SAN,16h02m,1,SFO,1548,20220405-1701,best
+7:05 am – 3:15 pm +1,Korean Air,SAN‐ICN,16h10m,1,SEA,4:40 pm – 6:11 pm,Korean Air,ICN‐SAN,17h31m,1,SEA,1547,20220405-1701,best
+7:05 am – 3:15 pm +1,Korean Air,SAN‐ICN,16h10m,1,SEA,2:30 pm – 2:35 pm,Korean Air,ICN‐SAN,16h05m,1,LAX,1694,20220405-1701,best
+7:05 am – 3:15 pm +1,Korean Air,SAN‐ICN,16h10m,1,SEA,4:00 pm – 5:42 pm,"Korean Air, Alaska Airlines",ICN‐SAN,17h42m,1,SFO,1547,20220405-1701,best
+7:05 am – 3:15 pm +1,Delta,SAN‐ICN,16h10m,1,SEA,4:40 pm – 6:11 pm,Delta,ICN‐SAN,17h31m,1,SEA,1595,20220405-1701,best
+8:00 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,17h45m,1,SEA,8:40 pm – 9:45 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,17h05m,1,SFO,1491,20220405-1701,best
+6:15 am – 3:15 pm +1,Korean Air,SAN‐ICN,17h00m,1,SEA,4:40 pm – 6:11 pm,Korean Air,ICN‐SAN,17h31m,1,SEA,1547,20220405-1701,best
+6:53 pm – 4:30 am +2,Asiana Airlines,SAN‐ICN,17h37m,1,SFO,8:40 pm – 6:57 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,14h17m,1,SFO,1761,20220405-1701,best
+6:15 am – 3:15 pm +1,Korean Air,SAN‐ICN,17h00m,1,SEA,2:30 pm – 2:35 pm,Korean Air,ICN‐SAN,16h05m,1,LAX,1694,20220405-1701,best
+6:53 pm – 4:30 am +2,Asiana Airlines,SAN‐ICN,17h37m,1,SFO,8:40 pm – 7:55 pm,Asiana Airlines,ICN‐SAN,15h15m,1,LAX,1761,20220405-1701,best
+7:05 am – 3:15 pm +1,Delta,SAN‐ICN,16h10m,1,SEA,4:40 pm – 6:12 pm,Delta,ICN‐SAN,17h32m,2,"SEA, SLC",1599,20220405-1701,best
+8:00 am – 2:45 pm +1,United Airlines,SAN‐ICN,14h45m,1,SFO,4:40 pm – 2:35 pm,United Airlines,ICN‐SAN,13h55m,1,SFO,2060,20220405-1701,best
+8:00 am – 2:45 pm +1,United Airlines,SAN‐ICN,14h45m,1,SFO,4:40 pm – 2:35 pm,United Airlines,ICN‐SAN,13h55m,1,SFO,2060,20220405-1706,fast
+7:05 am – 3:15 pm +1,Delta,SAN‐ICN,16h10m,1,SEA,4:40 pm – 2:35 pm,United Airlines,ICN‐SAN,13h55m,1,SFO,1863,20220405-1706,fast
+6:05 am – 2:45 pm +1,United Airlines,SAN‐ICN,16h40m,1,SFO,4:40 pm – 2:35 pm,United Airlines,ICN‐SAN,13h55m,1,SFO,2060,20220405-1706,fast
+8:00 am – 4:40 pm +1,Korean Air,SAN‐ICN,16h40m,1,SEA,4:40 pm – 2:35 pm,United Airlines,ICN‐SAN,13h55m,1,SFO,2110,20220405-1706,fast
+8:12 pm – 4:30 am +2,Asiana Airlines,SAN‐ICN,16h18m,1,SFO,8:40 pm – 6:57 pm,"Asiana Airlines, Fiji Airways",ICN‐SAN,14h17m,1,SFO,3681,20220405-1706,fast
+7:45 pm – 4:30 am +2,"Alaska Airlines, Asiana Airlines",SAN‐ICN,16h45m,1,SFO,4:40 pm – 2:35 pm,United Airlines,ICN‐SAN,13h55m,1,SFO,1979,20220405-1706,fast
+6:53 pm – 4:30 am +2,"United Airlines, Asiana Airlines",SAN‐ICN,17h37m,1,SFO,4:40 pm – 2:35 pm,United Airlines,ICN‐SAN,13h55m,1,SFO,2123,20220405-1706,fast
+8:12 pm – 4:30 am +2,Asiana Airlines,SAN‐ICN,16h18m,1,SFO,8:40 pm – 7:55 pm,Asiana Airlines,ICN‐SAN,15h15m,1,LAX,3172,20220405-1706,fast
+6:53 pm – 4:30 am +2,Asiana Airlines,SAN‐ICN,17h37m,1,SFO,8:40 pm – 6:57 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,14h17m,1,SFO,1761,20220405-1706,fast
+8:00 am – 4:40 pm +1,Korean Air,SAN‐ICN,16h40m,1,SEA,8:40 pm – 7:55 pm,Asiana Airlines,ICN‐SAN,15h15m,1,LAX,2250,20220405-1706,fast
+8:00 am – 5:45 pm +1,"Alaska Airlines, Asiana Airlines",SAN‐ICN,17h45m,1,SEA,8:40 pm – 6:57 pm,"Asiana Airlines, Alaska Airlines",ICN‐SAN,14h17m,1,SFO,1491,20220405-1706,fast
+8:12 pm – 4:30 am +2,Asiana Airlines,SAN‐ICN,16h18m,1,SFO,8:40 pm – 8:24 pm,Asiana Airlines,ICN‐SAN,15h44m,1,SFO,3119,20220405-1706,fast
+7:05 am – 3:15 pm +1,Korean Air,SAN‐ICN,16h10m,1,SEA,4:00 pm – 4:02 pm,"Korean Air, Alaska Airlines",ICN‐SAN,16h02m,1,SFO,1547,20220405-1706,fast
+8:00 am – 2:45 pm +1,United Airlines,SAN‐ICN,14h45m,1,SFO,4:40 pm – 6:09 pm,United Airlines,ICN‐SAN,17h29m,1,SFO,2060,20220405-1706,fast
+7:05 am – 3:15 pm +1,Korean Air,SAN‐ICN,16h10m,1,SEA,2:30 pm – 2:35 pm,Korean Air,ICN‐SAN,16h05m,1,LAX,1694,20220405-1706,fast
