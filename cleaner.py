@@ -43,7 +43,7 @@ def df_compiler(zip_path_list):
     
     mdf = mdf.astype({'Out Stops':'int', 'Return Stops': 'int', 'Price': 'int', 'total_stops': 'int'})
     mdf.drop_duplicates(inplace=True) # Remove any duplicates
-    mdf = mdf.drop('Unnamed: 0', axis=1) # Drop Unnamed column which only populated on Thailand Flight data
+    # mdf = mdf.drop('Unnamed: 0', axis=1) # Drop Unnamed column which only populated on Thailand Flight data
     return mdf
 
 def total_duration(df):
