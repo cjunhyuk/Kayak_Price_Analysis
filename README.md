@@ -7,12 +7,15 @@ Author: Jun (Andrew) Choi
 
 ## Table of Contents
 
-1. Business Understanding
-2. Data
-3. EDA and Data Cleaning
-4. Modeling
-5. Evaluation
-6. Appendix
+- [Kayak Plane Ticket Price Analysis](#kayak-plane-ticket-price-analysis)
+  - [Table of Contents](#table-of-contents)
+  - [1. Business Understanding](#1-business-understanding)
+  - [2. Data](#2-data)
+    - [Limitations](#limitations)
+  - [3. EDA and Data Cleaning](#3-eda-and-data-cleaning)
+  - [4. Modeling](#4-modeling)
+  - [5. Evaluation](#5-evaluation)
+  - [6. Appendix](#6-appendix)
 
 ---
 
