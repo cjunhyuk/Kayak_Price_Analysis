@@ -72,7 +72,7 @@ Because of the class imbalance that was present it was essential to utilize [SMO
 
 To compile the master dataset I created a [compiler function](https://github.com/cjunhyuk/plane_price_proj/blob/master/py_files/cleaner.py) that combined all of the tickets from the specific routes.  
 
-This was also where the target assigning and most of the feature enginering took place.
+This was also where the target assigning and most of the feature engineering took place.
 
 ---
 
@@ -80,7 +80,7 @@ This was also where the target assigning and most of the feature enginering took
 
 The evaluation metric I decided to use was Accuracy and Precision.  
 
-The reason I chose **precision** is because I wanted more emphasis on identifying false postives so my model would not return a ticket that was not the cheapest and shortest duration.  
+The reason I chose **precision** is because I wanted more emphasis on identifying false positives so my model would not return a ticket that was not the cheapest and shortest duration.  
 
 For the baseline model I chose to utilize a Dummy Classifier that produced an accuracy score of 50.63%.  
 
@@ -94,7 +94,7 @@ This result was achieved using the optimal parameters found through the use of G
 
 I also use Time Series modeling to evaluate how effectively I could predict the price change over time.  
 ![Time Series](images/TSeries_Plot.png)
-The model performed quite well, however it can definitely still improved with the addition of more data.  
+The model performed quite well, however it can definitely still be improved with the addition of more data.  
 
 ---
 
