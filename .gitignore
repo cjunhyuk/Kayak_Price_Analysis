@@ -75,7 +75,8 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+*.ipynb_checkpoints
+*-Copy1.ipynb
 
 # IPython
 profile_default/
@@ -130,3 +131,7 @@ dmypy.json
 
 # OSX DS
 .DS_Store
+
+# Scraper Drivers
+chromedriver.exe
+chomedriver_mac
