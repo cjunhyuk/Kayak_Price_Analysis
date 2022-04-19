@@ -115,6 +115,7 @@ From the analysis I conducted I found that:
 [Github](https://github.com/fnneves/flight_scraper/blob/master/FlightScraper%20python%20bot%20for%20kayak.ipynb) [Medium](https://medium.com/@fneves/if-you-like-to-travel-let-python-help-you-scrape-the-best-fares-5a1f26213086) base code for scraper used by **Fabio Neves**  
 [Data Dictionary](data/Data%20Dictionary.xlsx) for master data set  
 [Kayak](https://www.kayak.com/flights) Website used for data collection  
+[Presentation Slide Deck](presentation.pdf) Final product presentation  
 [Line Plot](/images/Price%20Lineplot.png) used for presentations
 ![Line Plot](/images/Price%20Lineplot.png)
 
